@@ -65,5 +65,6 @@ public class ExaminerServiceTest {
                 new Question("В4", "О4"),
                 new Question("В5", "О5")
         );
+        //1
     }
 }
